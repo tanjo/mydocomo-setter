@@ -1,0 +1,1 @@
+<a href="javascript:(function(){document.getElementsByName('authid')[0].value='%AUTHID%';document.getElementsByName('authpass')[0].value='%AUTHPASS%';})();">mydocomo setter</a>
